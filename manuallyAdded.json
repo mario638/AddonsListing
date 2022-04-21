@@ -1,0 +1,179 @@
+{
+    "resources": [
+        {
+            "likes": 0,
+            "name": "TEMPLATE",
+            "tag": "TEMPLATE",
+            "author": {
+                "id": 0,
+                "name": "",
+                "url": ""
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": 0,
+            "premium": false,
+            "id": 0,
+            "url": "",
+            "type": "template"
+        },
+        {
+            "likes": 0,
+            "name": "50 EMOJI PACK 100% SELFMADE! | Oraxen/ItemsAdder + Discord Ready",
+            "tag": "Increase your server sales with this EMOJI PACK",
+            "author": {
+                "id": 327889,
+                "name": "",
+                "url": "https://www.spigotmc.org/members/327889"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": -1,
+            "premium": true,
+            "id": 22653,
+            "url": "https://www.mc-market.org/resources/22653",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "3D Battle Flail",
+            "tag": "3D Model of battle flail",
+            "author": {
+                "id": 94069,
+                "name": "",
+                "url": "https://www.spigotmc.org/members/94069"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": 6,
+            "premium": false,
+            "id": 22066,
+            "url": "https://www.mc-market.org/resources/22066",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "Demon Hunter Weapon Model | Oraxen/ItemsAdder Ready",
+            "tag": "Increase your server sales with this Demon Hunter Weapon",
+            "author": {
+                "id": 327889,
+                "name": "",
+                "url": "https://www.spigotmc.org/members/327889"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": 0,
+            "premium": true,
+            "id": 22370,
+            "url": "https://www.mc-market.org/resources/22370",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "Font Textures - Player Ranks Icons",
+            "tag": "Make your chat more interesting with cusotm player ranks icons",
+            "author": {
+                "id": 102766,
+                "name": "",
+                "url": "https://www.spigotmc.org/members/102766"
+            },
+            "rating": {
+                "count": 1,
+                "average": 5.0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": 0,
+            "premium": true,
+            "id": 22663,
+            "url": "https://www.mc-market.org/resources/22663",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "Font Textures - Item Rarity and Quality Icons",
+            "tag": "Provide fancy lore to your items with their rarity type and quality grade as icons",
+            "author": {
+                "id": 102766,
+                "name": "",
+                "url": "https://www.spigotmc.org/members/102766"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": 0,
+            "premium": true,
+            "id": 22569,
+            "url": "https://www.mc-market.org/resources/22569",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "\uD83D\uDDE1 SWORD PACK \uD83D\uDDE1 | 12 MODELS / 12 STYLES! + Oraxen & ItemsAdder Ready",
+            "tag": "Increase your server sales with this SWORD PACK",
+            "author": {
+                "id": 327889,
+                "name": "",
+                "url": "https://www.spigotmc.org/members/327889"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": ""
+            },
+            "releaseDate": 0,
+            "updateDate": 0,
+            "downloads": 0,
+            "premium": true,
+            "id": 22527,
+            "url": "https://www.mc-market.org/resources/22527",
+            "type": "mcmarket"
+        }
+    ]
+}

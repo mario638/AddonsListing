@@ -199,6 +199,56 @@
             "id": "player-emotes-pack-for-itemsadder",
             "url": "https://mcmodels.net/model/player-emotes-pack-for-itemsadder/",
             "type": "mcmodels"
+        },
+        {
+            "likes": 0,
+            "name": "Configured custom modeled vanilla mobs pack | 4 fully animated models | Game assets",
+            "tag": "4 cheap models,
+            "author": {
+                "id": 0,
+                "name": "TheGust",
+                "url": "https://www.mc-market.org/members/312554/"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": "https://media.discordapp.net/attachments/583634774568992768/889189449488039936/unknown.png?width=438&height=559"
+            },
+            "releaseDate": 1650027990,
+            "updateDate": 1650027990,
+            "downloads": 0,
+            "premium": true,
+            "id": "21034",
+            "url": "https://www.mc-market.org/resources/21034/",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
+            "name": "Configured custom menu and holograms with 13 pre-made icons | Game assets | Make your server unique",
+            "tag": "Vanilla-like menu + holograms icons (custom textures) for your NPC's gamemode-selectors!,
+            "author": {
+                "id": 0,
+                "name": "TheGust",
+                "url": "https://www.mc-market.org/members/312554/"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": "https://www.mc-market.org/attachments/490695/"
+            },
+            "releaseDate": 1650027990,
+            "updateDate": 1650027990,
+            "downloads": 0,
+            "premium": true,
+            "id": "21017",
+            "url": "https://www.mc-market.org/resources/21017/",
+            "type": "mcmarket"
         }
     ]
 }

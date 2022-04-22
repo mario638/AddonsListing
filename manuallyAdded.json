@@ -227,6 +227,31 @@
         },
         {
             "likes": 0,
+            "name": "TEAL HUB | Custom Resource Pack! | Interactive Custom GUIs, Social System, & more! | 1.18.x",
+            "tag": "The All-In-One Hub & Proxy Setup with a Unique Custom Resource Pack!",
+            "author": {
+                "id": 0,
+                "name": "Niccckk",
+                "url": "https://www.mc-market.org/members/238024/"
+            },
+            "rating": {
+                "count": 0,
+                "average": 0
+            },
+            "icon": {
+                "data": "",
+                "url": "https://i.imgur.com/bgUpuhX.png"
+            },
+            "releaseDate": 1650027990,
+            "updateDate": 1650027990,
+            "downloads": 22,
+            "premium": true,
+            "id": "22789",
+            "url": "https://www.mc-market.org/resources/22789/",
+            "type": "mcmarket"
+        },
+        {
+            "likes": 0,
             "name": "Configured custom menu and holograms with 13 pre-made icons | Game assets | Make your server unique",
             "tag": "Vanilla-like menu + holograms icons (custom textures) for your NPC's gamemode-selectors!",
             "author": {

@@ -274,6 +274,31 @@
             "id": "21017",
             "url": "https://www.mc-market.org/resources/21017/",
             "type": "mcmarket"
+        },
+        {
+            "likes":1,
+            "name":"IA Croper",
+            "tag":"ItemsAdder addon with resourcepack custom and with plants",
+            "author":{
+              "id":10599,
+              "name":"Arubik",
+              "url":"https://polymart.org/user/arubik.10599"
+            },
+            "rating":{
+              "count":0,
+              "average":0
+            },
+            "icon":{
+              "data":"",
+              "url":"https://s3.amazonaws.com/polymart.product.thumbnails/default/2366"
+            },
+            "releaseDate":"10/05/2022",
+            "updateDate":0,
+            "downloads":0,
+            "premium":true,
+            "id":2366,
+            "url":"https://polymart.org/resource/iacroper.2366",
+            "type":"polymart"
         }
     ]
 }

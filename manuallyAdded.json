@@ -276,7 +276,7 @@
             "type": "mcmarket"
         },
         {
-            "likes":1,
+            "likes":0,
             "name":"IA Croper",
             "tag":"ItemsAdder addon with resourcepack custom and with plants",
             "author":{
@@ -292,13 +292,38 @@
               "data":"",
               "url":"https://s3.amazonaws.com/polymart.product.thumbnails/default/2366"
             },
-            "releaseDate":"10/05/2022",
-            "updateDate":0,
-            "downloads":0,
+            "releaseDate":1652133600,
+            "updateDate":1652133600,
+            "downloads":24,
             "premium":true,
             "id":2366,
             "url":"https://polymart.org/resource/iacroper.2366",
             "type":"polymart"
+        },
+        {
+            "likes":0,
+            "name":"ItemsAdder Furnitures Plus Addonr",
+            "tag":"3D detailed high quality furnitures for the plugin items adder",
+            "author":{
+              "id":348312,
+              "name":"Yas_MC",
+              "url":"https://www.mc-market.org/members/348312/"
+            },
+            "rating":{
+              "count":0,
+              "average":0
+            },
+            "icon":{
+              "data":"",
+              "url":"https://www.mc-market.org/attachments/492635/"
+            },
+            "releaseDate":1645311600,
+            "updateDate":1645484400,
+            "downloads":81,
+            "premium":true,
+            "id":22965,
+            "https://www.mc-market.org/resources/22965/",
+            "type":"mcmarket"
         }
     ]
 }

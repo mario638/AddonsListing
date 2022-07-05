@@ -324,6 +324,31 @@
             "id":22965,
             "url":"https://www.mc-market.org/resources/22965/",
             "type":"mcmarket"
+        },
+        {
+            "likes":0,
+            "name":"ItemsAdder Park plus Furniture 1",
+            "tag":"Park and outdoor decorations furniture",
+            "author":{
+              "id":348312,
+              "name":"Yas_MC",
+              "url":"https://www.mc-market.org/members/348312/"
+            },
+            "rating":{
+              "count":0,
+              "average":0
+            },
+            "icon":{
+              "data":"",
+              "url":"https://i.imgur.com/8QQRp1i.png"
+            },
+            "releaseDate":1656706612,
+            "updateDate":1656706612,
+            "downloads":1,
+            "premium":true,
+            "id":24293,
+            "url":"https://www.mc-market.org/resources/24293/",
+            "type":"mcmarket"
         }
     ]
 }

@@ -352,7 +352,7 @@
         },
         {
             "likes":0,
-            "name":"Painter Addon for ItemsAdder",
+            "name":"Painter Addon [ItemsAdder]",
             "tag":"ItemsAdder addon to add an amazing block painting system, let your players to color their buildings!",
             "author":{
               "id":2292,
@@ -360,15 +360,15 @@
               "url":"https://polymart.org/user/glozz.2292"
             },
             "rating":{
-              "count":0,
-              "average":0
+              "count":1,
+              "average":4.0
             },
             "icon":{
               "data":"",
               "url":"https://i.imgur.com/NQoIrmN.png"
             },
             "releaseDate":1655265600,
-            "updateDate":1655438400,
+            "updateDate":1660161664,
             "downloads":9,
             "premium":true,
             "id":2509,

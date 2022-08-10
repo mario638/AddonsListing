@@ -349,6 +349,31 @@
             "id":24293,
             "url":"https://www.mc-market.org/resources/24293/",
             "type":"mcmarket"
+        },
+        {
+            "likes":0,
+            "name":"Painter Addon for ItemsAdder",
+            "tag":"ItemsAdder addon to add an amazing block painting system, let your players to color their buildings!",
+            "author":{
+              "id":2292,
+              "name":"Glozz",
+              "url":"https://polymart.org/user/glozz.2292"
+            },
+            "rating":{
+              "count":0,
+              "average":0
+            },
+            "icon":{
+              "data":"",
+              "url":"https://i.imgur.com/NQoIrmN.png"
+            },
+            "releaseDate":1655265600,
+            "updateDate":1655438400,
+            "downloads":9,
+            "premium":true,
+            "id":2509,
+            "url":"https://polymart.org/resource/painter-addon.2509",
+            "type":"polymart"
         }
     ]
 }

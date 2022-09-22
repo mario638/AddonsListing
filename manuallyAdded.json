@@ -374,6 +374,31 @@
             "id":2509,
             "url":"https://polymart.org/resource/painter-addon.2509",
             "type":"polymart"
+        },
+        {
+            "likes":0,
+            "name":"Ultra dances [10 Emotes for now]",
+            "tag":"An ItemsAdder addon that soon have updates!",
+            "author":{
+              "id":14893,
+              "name":"mario638",
+              "url":"https://polymart.org/user/mario638.14893"
+            },
+            "rating":{
+              "count":0,
+              "average":5.0
+            },
+            "icon":{
+              "data":"",
+              "url":"https://s3.amazonaws.com/polymart.product.thumbnails/default/2899"
+            },
+            "releaseDate":1663840800,
+            "updateDate":1663840800,
+            "downloads":1,
+            "premium":true,
+            "id":2899,
+            "url":"https://polymart.org/resource/ultra-dances-10-emotes-for-now.2899",
+            "type":"polymart"
         }
     ]
 }

@@ -385,16 +385,16 @@
               "url":"https://polymart.org/user/mario638.14893"
             },
             "rating":{
-              "count":1,
-              "average":4.0
+              "count":2,
+              "average":5.0
             },
             "icon":{
               "data":"",
               "url":"https://s3.amazonaws.com/polymart.product.thumbnails/default/2899"
             },
             "releaseDate":1655265600,
-            "updateDate":1660161664,
-            "downloads":5,
+            "updateDate":1663960982,
+            "downloads":7,
             "premium":true,
             "id":2899,
             "url":"https://polymart.org/resource/ultra-dances.2899",

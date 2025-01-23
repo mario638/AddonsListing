@@ -378,14 +378,14 @@
         {
             "likes":0,
             "name":"Ultra Dances",
-            "tag":"An Items Adders addon for more emotes!",
+            "tag":"an ItemsAdder addon for adding more emotes!",
             "author":{
               "id":14893,
               "name":"mario638",
               "url":"https://polymart.org/user/mario638.14893"
             },
             "rating":{
-              "count":2,
+              "count":6,
               "average":5.0
             },
             "icon":{
@@ -393,8 +393,8 @@
               "url":"https://s3.amazonaws.com/polymart.product.thumbnails/default/2899"
             },
             "releaseDate":1655265600,
-            "updateDate":1663960982,
-            "downloads":7,
+            "updateDate":1737666494,
+            "downloads":60,
             "premium":true,
             "id":2899,
             "url":"https://polymart.org/resource/ultra-dances.2899",
